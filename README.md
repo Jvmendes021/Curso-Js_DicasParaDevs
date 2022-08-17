@@ -1,6 +1,6 @@
 # Curso-Js_DicasParaDevs
 
-Curso de js/para iniciantes.
+Curso de Js/para iniciantes.
 
 Link do curo: https://www.youtube.com/c/dicasparadevs
 
