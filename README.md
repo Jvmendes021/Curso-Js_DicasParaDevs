@@ -2,5 +2,5 @@
 
 Curso de Js/para iniciantes.
 
-Link do curo: https://www.youtube.com/c/dicasparadevs
+Link do curso: https://www.youtube.com/c/dicasparadevs
 
